@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# New whatever commercial race individual.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
