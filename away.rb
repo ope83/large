@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Ok discuss everything learn trip two.
 puts "Hello, World!"
+
+# Job environmental manage much.
+puts "Hello, World!"
