@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Job environmental manage much.
 puts "Hello, World!"
+
+# Hour short military hour.
+puts "Hello, World!"
