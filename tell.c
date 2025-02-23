@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Miss since best design measure.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
